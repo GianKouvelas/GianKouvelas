@@ -1,7 +1,6 @@
-## Hi there 👋
-
 # 💫 About Me:
-Hi, I'm Giannis Kouvelas, a Software Engineer passionate about building practical and efficient solutions.<br>This profile showcases projects I've developed during my college journey, reflecting my growth in software design, problem-solving, and real-world application development.
+Hi, I'm Giannis Kouvelas, a Computer Science student at the National and Kapodistrian University of Athens.
+This profile showcases projects I've built while developing my skills in software engineering.
 
 
 ## 🌐 Socials:
