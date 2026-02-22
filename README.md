@@ -23,5 +23,5 @@ This profile showcases projects I've built while developing my skills in softwar
 - **[Nanny Finder Website (JavaScript, CSS, HTML)](https://github.com/yourusername/nanny-finder)**  
   Fully functional website where users can search for a nanny or apply for nanny jobs through an interactive interface.
 
-  **[Nearest Neighbor Search(C++)](https://github.com/sdi2100098/Project)**
+- **[Nearest Neighbor Search(C++)](https://github.com/sdi2100098/Project)**
   Finding the nearest neighbor in an exceptional big graph using Vamana algorithm 
