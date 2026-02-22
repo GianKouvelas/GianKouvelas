@@ -11,5 +11,9 @@ This profile showcases projects I've built while developing my skills in softwar
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+# 🧩 Projects: 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Student Management System** → https://github.com/yourusername/student-system  
+- **Weather Web App** → https://github.com/yourusername/weather-app  
+- **File Organizer Tool** → https://github.com/yourusername/file-organizer  
+- **Portfolio Website** → https://github.com/yourusername/portfolio
