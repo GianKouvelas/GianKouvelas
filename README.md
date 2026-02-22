@@ -20,5 +20,5 @@ This profile showcases projects I've built while developing my skills in softwar
 - **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/yourusername/wolves-vs-vampires)**  
   Object-oriented terminal game set in an open world where wolves and vampires interact through game mechanics and player actions.
 
-- **[Nanny Finder Website (HTML, CSS, JavaScript)](https://github.com/yourusername/nanny-finder)**  
+- **[Nanny Finder Website (JavaScript, CSS, HTML)](https://github.com/yourusername/nanny-finder)**  
   Fully functional website where users can search for a nanny or apply for nanny jobs through an interactive interface.
