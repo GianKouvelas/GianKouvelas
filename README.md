@@ -14,7 +14,7 @@ This profile showcases projects I've built while developing my skills in softwar
 
 ## 🚀 Projects
 
-- **[Quoridor with AI (C)](https://github.com/yourusername/quoridor-ai)**  
+- **[Quoridor with AI (C)](https://github.com/GianKouvelas/ipquoridor)**  
   Implementation of the Quoridor board game in C featuring an AI agent that plays strategically against the user.
 
 - **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/yourusername/wolves-vs-vampires)**  
