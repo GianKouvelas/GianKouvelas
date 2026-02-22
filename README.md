@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Giannis Kouvelas, a Computer Science student at the National and Kapodistrian University of Athens.
+
 This profile showcases projects I've built while developing my skills in software engineering.
 
 
@@ -11,9 +12,13 @@ This profile showcases projects I've built while developing my skills in softwar
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 🧩 Projects: 
+## 🚀 Projects
 
-- **Student Management System** → https://github.com/yourusername/student-system  
-- **Weather Web App** → https://github.com/yourusername/weather-app  
-- **File Organizer Tool** → https://github.com/yourusername/file-organizer  
-- **Portfolio Website** → https://github.com/yourusername/portfolio
+- **[Quoridor with AI (C)](https://github.com/yourusername/quoridor-ai)**  
+  Implementation of the Quoridor board game in C featuring an AI agent that plays strategically against the user.
+
+- **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/yourusername/wolves-vs-vampires)**  
+  Object-oriented terminal game set in an open world where wolves and vampires interact through game mechanics and player actions.
+
+- **[Nanny Finder Website (HTML, CSS, JavaScript)](https://github.com/yourusername/nanny-finder)**  
+  Fully functional website where users can search for a nanny or apply for nanny jobs through an interactive interface.
