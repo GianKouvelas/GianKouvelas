@@ -17,7 +17,7 @@ This profile showcases projects I've built while developing my skills in softwar
 - **[Quoridor with AI (C)](https://github.com/GianKouvelas/ipquoridor)**  
   Implementation of the Quoridor board game in C featuring an AI agent that plays strategically against the user.
 
-- **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/yourusername/wolves-vs-vampires)**  
+- **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/GianKouvelas/OOP_VampiresVSWerewolves)**  
   Object-oriented terminal game set in an open world where wolves and vampires interact through game mechanics and player actions.
 
 - **[Nanny Finder Website (JavaScript, CSS, HTML)](https://github.com/yourusername/nanny-finder)**  
