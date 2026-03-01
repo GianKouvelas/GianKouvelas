@@ -20,8 +20,8 @@ This profile showcases projects I've built while developing my skills in softwar
 - **[Terminal Open-World Game: Wolves vs Vampires (C++)](https://github.com/GianKouvelas/OOP_VampireVSWerewolves)**  
   Object-oriented terminal game set in an open world where wolves and vampires interact through game mechanics and player actions.
 
-- **[Nanny Finder Website (JavaScript, CSS, HTML)](https://github.com/yourusername/nanny-finder)**  
-  Fully functional website where users can search for a nanny or apply for nanny jobs through an interactive interface.
+- **[AI_Sentiment Analysis with BERT](https://github.com/GianKouvelas/Sentiment-analysis-with-Bert)**  
+  Multi-class sentiment classification using fine-tuned BERT, PyTorch and Hugging Face Transformers
 
 - **[Nearest Neighbor Search(C++)](https://github.com/sdi2100098/Project)**
   Finding the nearest neighbor in an exceptional big graph using Vamana algorithm 
